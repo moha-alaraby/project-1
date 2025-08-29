@@ -406,7 +406,7 @@ background: linear-gradient(90deg, #7dbeb8, #10cab7);  width: 0;
 }
 .contact .content .emal{
     text-decoration: none;
-    font-size: 35px;
+    font-size: 22px;
     font-weight: 800;
     color: var(--main-color);
     padding: 20px 0;
@@ -447,4 +447,5 @@ background: linear-gradient(90deg, #7dbeb8, #10cab7);  width: 0;
 .footer P .name{
     color: var(--main-color);
 }
+
 /* end footer */
