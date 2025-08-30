@@ -334,6 +334,7 @@ background: linear-gradient(90deg, #7dbeb8, #10cab7);  width: 0;
     }
 .about .content .text{
     flex-basis:calc(100% - 500px);
+    width: 100%;
 }
 .about .content .text p:first-of-type{
     font-weight: bold;
@@ -346,7 +347,7 @@ background: linear-gradient(90deg, #7dbeb8, #10cab7);  width: 0;
     color: #777;
 }
 .about .content .text hr{
-    width: 372px;
+    width: 100%;
     display: inline-block;
     height: 1px;
     background: var(--main-color);
@@ -449,3 +450,4 @@ background: linear-gradient(90deg, #7dbeb8, #10cab7);  width: 0;
 }
 
 /* end footer */
+
